@@ -1,0 +1,1 @@
+Make another exercise entry on the database by copying the dumbell curls, just change the name to barbell curls for now
